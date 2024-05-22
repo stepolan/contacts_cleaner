@@ -1,6 +1,6 @@
 # Contacts Cleaner
 
-This project is a Python script designed to clean and deduplicate contacts from a VCF (vCard) file, with progress monitoring using `tqdm`.
+This project is a Python script designed to clean and deduplicate contacts from a VCF (vCard) file.
 
 ## Features
 
