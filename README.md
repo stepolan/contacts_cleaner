@@ -38,9 +38,9 @@ This project is a Python script designed to clean and deduplicate contacts from 
 
 ## Debug Mode
 
-To enable debug mode, which processes only the first 100 contacts for faster testing, set the `DEBUG` flag to `True` in the script.
+1. To enable debug mode, which processes only the first 100 contacts for faster testing, set the `DEBUG` flag to `True` in the script.
 
-    ```python
+    ```bash
     DEBUG = False  # Set to True to enable debug mode, which processes only the first 100 contacts for faster testing
     
 ## Exporting Contacts to VCF
